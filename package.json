@@ -26,11 +26,20 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "lucide-react": "^0.294.0"
+    "lucide-react": "^0.294.0",
+    "zustand": "^4.4.7",
+    "zundo": "^2.0.0",
+    "immer": "^10.0.3",
+    "framer-motion": "^10.16.5",
+    "react-spring": "^9.7.3",
+    "react-hot-toast": "^2.4.1",
+    "openai": "^4.20.1",
+    "idb": "^7.1.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.4",
     "vite": "^4.4.9",
+    "vite-plugin-pwa": "^0.17.4",
     "eslint": "^8.50.0",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
@@ -67,10 +76,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/sentence-builder"
+    "url": "https://github.com/chudeemeke/sentence-builder"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/sentence-builder/issues"
+    "url": "https://github.com/chudeemeke/sentence-builder/issues"
   },
-  "homepage": "https://github.com/yourusername/sentence-builder#readme"
+  "homepage": "https://github.com/chudeemeke/sentence-builder#readme"
 }
