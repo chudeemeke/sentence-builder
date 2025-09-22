@@ -51,7 +51,7 @@
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5",
-    "@storybook/react": "^7.5.0",
+    "@storybook/react": "^9.1.7",
     "@storybook/react-vite": "^7.5.0"
   },
   "peerDependencies": {
