@@ -188,3 +188,8 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
 ## License
 
 MIT © Chude
+## 🤖 CI/CD Auto-Fix
+
+This repository uses Claude AI to automatically fix CI/CD failures.
+If builds fail, Claude will automatically create a fix PR.
+
